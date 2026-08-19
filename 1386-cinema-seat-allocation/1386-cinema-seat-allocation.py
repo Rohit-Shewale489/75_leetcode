@@ -1,0 +1,26 @@
+class Solution:
+    def maxNumberOfFamilies(self, n, reservedSeats):
+        rows = {}
+
+        # Store reserved seats for each row
+        for row, seat in reservedSeats:
+            if row not in rows:
+                rows[row] = set()
+            rows[row].add(seat)
+
+        # Rows with no reservations can always accommodate 2 groups
+        answer = (n - len(rows)) * 2
+
+        # Check rows that have reservations
+        for seats in rows.values():
+
+            left = all(seat not in seats for seat in [2, 3, 4, 5])
+            middle = all(seat not in seats for seat in [4, 5, 6, 7])
+            right = all(seat not in seats for seat in [6, 7, 8, 9])
+
+            if left and right:
+                answer += 2
+            elif left or middle or right:
+                answer += 1
+
+        return answer
