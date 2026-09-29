@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0035-search-insert-position) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
 |  |
@@ -21,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
