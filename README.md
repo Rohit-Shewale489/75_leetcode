@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0035-search-insert-position) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -30,4 +31,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0183-customers-who-never-order) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
