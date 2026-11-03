@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0035-search-insert-position) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Simulation
 |  |
 | ------- |
@@ -71,4 +72,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Math
+|  |
+| ------- |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 <!---LeetCode Topics End-->
