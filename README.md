@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0035-search-insert-position) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0035-search-insert-position) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Database
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/0011-container-with-most-water) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -91,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
+## Sorting
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Rohit-Shewale489/75_leetcode/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
